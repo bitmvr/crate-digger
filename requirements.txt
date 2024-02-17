@@ -1,0 +1,4 @@
+librosa
+pytube
+ffmpeg-python
+pathvalidate
